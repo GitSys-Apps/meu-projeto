@@ -1,5 +1,5 @@
 # app.py
 def hello_world():
-    print("Hello, GitHub!")
+    print("Olá, GitHub! Agora em português!")
 
 hello_world()
